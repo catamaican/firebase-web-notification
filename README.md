@@ -13,7 +13,7 @@ $ firebase deploy --project yourprojectid
 ## Firebase get token
 Folder "public" follow instruciton https://firebase.google.com/docs/cloud-messaging/js/client
 
-- mainfest.json and firebase-messaging-sw.js are needed both. Just copy them at your web ROOT!!!
+- mainfest.json and firebase-messaging-sw.js are needed both. Just copy them at your < web ROOT!!! >
 - put in app.js your own script for working with firebase
 - find and replace your own config firebase in both files (app.js , firebase-messaging-sw.js)
     // Initialize Firebase
