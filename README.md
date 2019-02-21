@@ -28,5 +28,5 @@ FirebaseController Asp.net restfulApi
 
 # All in one
 You may move the folder "public" inside "Api.FirebaseNotification". With MVC asp.net you can use html and javascript in _Layout.cshtml . 
-## Need mainfest.json and firebase-messaging-sw.js in root web, just change config for firebase
+## mainfest.json and firebase-messaging-sw.js are NEEDED in web root!
 If you want to change firebase-messaging-sw.js please check https://firebase.google.com/docs/web/setup
